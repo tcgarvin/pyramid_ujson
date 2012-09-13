@@ -1,7 +1,7 @@
 ujson_renderer.py
 =================
 
-In Python Pyramid, helps use ujson to encode responses instead of the default Pyramid json encoder.
+In Python [Pyramid](http://www.pylonsproject.org/), helps use [ujson](http://pypi.python.org/pypi/ujson/) to encode responses instead of the default Pyramid json encoder.
 
 Sets up ujson as a renderer. Can be used instead of the # simplejson 'json'
 which is provided by pyramid by default, or can be used as an alternative as
